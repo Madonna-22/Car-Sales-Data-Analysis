@@ -3,6 +3,8 @@
 # Project Overview
 This project summarises the insights from the analysis of Nigeria car sales data. The dataset encompasses details such as the make, model, colour, amount, mileage, engine size, transmission etc. The key insights showed that Toyota is the most popular car make, and the average car price is 5 million naira.
 
+![image alt](https://github.com/Madonna-22/Car-Sales-Data-Analysis/blob/4f09f6aa3a31886510737d1a9d03b5e57f3dcc2f/IMG_Dashboard.png)
+
 # Dataset Overview and Structure 
 Source: kaggle;  Nigeria Car Sales Dataset.
 
@@ -20,8 +22,6 @@ Excel: Used for data cleaning, analysis and dashboard creation.
 - what car colour is the most purchased?
 - which state has the highest car sales (top-selling state), and which one has the lowest ?
 - which car types are sold more?  Automatic or manual?
-
-![image alt](https://github.com/Madonna-22/Car-Sales-Data-Analysis/blob/4f09f6aa3a31886510737d1a9d03b5e57f3dcc2f/IMG_Dashboard.png)
   
 # Insights:
 1. The average cost of a car 🚗  is ₦5 million.
