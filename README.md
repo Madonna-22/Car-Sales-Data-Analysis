@@ -21,7 +21,7 @@ Excel: Used for data cleaning, analysis and dashboard creation.
 - which state has the highest car sales (top-selling state), and which one has the lowest ?
 - which car types are sold more?  Automatic or manual?
 
-![image alt] (https://github.com/Madonna-22/Car-Sales-Data-Analysis/blob/4f09f6aa3a31886510737d1a9d03b5e57f3dcc2f/IMG_Dashboard.png)
+![image alt](https://github.com/Madonna-22/Car-Sales-Data-Analysis/blob/4f09f6aa3a31886510737d1a9d03b5e57f3dcc2f/IMG_Dashboard.png)
   
 # Insights:
 1. The average cost of a car 🚗  is ₦5 million.
